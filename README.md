@@ -18,4 +18,4 @@ Function `calendarTable(year, month, element)`
 
 **Result**
 
-- [UPDATE DEMO LINK](https://nizkiyVorobey.github.io/js_calendar-tabel-DOM/)
+- [UPDATE DEMO LINK](https://nizkiyvorobey.github.io/js_calendar-table-DOM/index.html)
